@@ -1,6 +1,6 @@
 ## Hello 👋 This is WEB WIZARD!!!
 
-<img align="right" src="https://github.com/FateNinja/FateNinja/blob/main/developer.gif" alt="Hola Coders" width="500" height="350"/> 
+<img align="right" src="https://github.com/FateNinja/FateNinja/blob/main/developer.gif" alt="Hola Coders" width="400" height="300"/> 
 
 ##### I am a Sr. Software developer with 4+ years of industry experience building web and mobile applications.
 
