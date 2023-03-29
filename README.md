@@ -1,4 +1,4 @@
-## Hi 👋, my name is Vivek
+##
 
 <img align="right" src="https://github.com/vivekweb2013/vivekweb2013/blob/main/developer.gif" alt="Hola Coders" width="500" height="350"/> 
 
