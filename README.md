@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=FateNinja&color=dc143c)
 <h1 align="center">Hi, there! 👋</h1>
 
 <p align="center">
@@ -50,5 +51,5 @@
 
 <br />
 
-![](https://komarev.com/ghpvc/?username=FateNinja&color=dc143c)
+
 
