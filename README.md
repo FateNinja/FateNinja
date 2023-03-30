@@ -1,19 +1,13 @@
 <h1 align="center">Hi, there! 👋</h1>
 
 <p align="center">
-	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=FateNinja&include_all_commits=true&hide_border=true&theme=dark"/>
-</p>
-
-<p align="center">
+  <a href="https://github.com/FateNinja">
+	  <img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=FateNinja&include_all_commits=true&hide_border=true&theme=dark"/>
+  </a>
   <a href="https://github.com/FateNinja">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=FateNinja&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
   </a>
-  
-  <a href="https://github.com/FateNinja">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=FateNinja&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="BBShark's GitHub Stats" height="180px"/>
-  </a>
-  
- </p>
+</p>
  
 <p align="center">
   <a href="https://github.com/FateNinja">
