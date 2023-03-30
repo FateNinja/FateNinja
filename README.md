@@ -1,13 +1,5 @@
 <h1 align="center">Hi, there! 👋</h1>
 
-- 🔭 I’m currently working on [BatNoter](https://github.com/batnoter/batnoter).
-- 🌱 I’m currently learning **RegEx**
-- 🤔 I’m looking for help with [BatNoter Issues](https://github.com/batnoter/batnoter/issues)
-- 💬 Ask me about **Golang, ReactJS, Docker, Kubernetes, Helm**
-- 📫 How to reach me: vivekweb2013@gmail.com
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: Watching Football Match(MU-England League)!
-
 <p align="center">
 	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=FateNinja&include_all_commits=true&hide_border=true&theme=dark"/>
 </p>
