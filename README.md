@@ -2,20 +2,15 @@
 
 <p align="center">
 	  <img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=FateNinja&include_all_commits=true&hide_border=true&theme=dark"/>
-	
 </p>
 <p align="center">
   <a href="https://github.com/FateNinja">
-	  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=FateNinja&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
+	  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=FateNinja&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>  
   </a>
-  
-</p>
-<!--
-<p align="center">
   <a href="https://github.com/FateNinja">
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=FateNinja&theme=onedark&row=1&&column=7" />
-  </a>
-</p-->
+  </a>  
+</p>
  
 <br />
 <!--
@@ -24,11 +19,11 @@
 <br />
 
 <div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Solidity-9E9E9E?style=for-the-badge&logo=solidity&logoColor=black">
   <img src="https://img.shields.io/badge/Rust-CC342D?style=for-the-badge&logo=rust&logoColor=white">
   <img src="https://img.shields.io/badge/Go-430098?style=for-the-badge&logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
