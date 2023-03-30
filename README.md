@@ -28,7 +28,7 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=FateNinja&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true) 
 -->
 <br />
-
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> </h2>
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
