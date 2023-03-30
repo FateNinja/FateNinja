@@ -7,6 +7,9 @@
   <a href="https://github.com/FateNinja">
 	  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=FateNinja&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>  
   </a>
+  <a href="https://github.com/FateNinja">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=FateNinja&show_icons=true&theme=dark" />
+  </a>
   <!--a href="https://github.com/FateNinja">
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=FateNinja&theme=onedark&row=1&&column=7" />
   </a-->  
