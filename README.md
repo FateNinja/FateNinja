@@ -9,7 +9,7 @@
 - ⚡ Fun fact: Watching Football Match(MU-England League)!
 
 <p align="center">
-	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=FateNinja&include_all_commits=true&hide_border=true&theme=dark"/>
+	<img width="450em" src="data:image/jpeg;base64, https://github-readme-streak-stats.herokuapp.com/?user=FateNinja&include_all_commits=true&hide_border=true&theme=dark"/>
 </p>
 
 <p align="center">
