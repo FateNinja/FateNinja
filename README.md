@@ -47,11 +47,8 @@
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-	<img src="https://img.shields.io/badge/MySQL-F7DF1E?style=for-the-badge&logo=mysql&logoColor=white">
-	<img src="https://img.shields.io/badge/Vue-9E9E9E?style=for-the-badge&logo=vue&logoColor=white">
-	<img src="https://img.shields.io/badge/AWS-316192?style=for-the-badge&logo=aws&logoColor=white">
-	<img src="https://img.shields.io/badge/Ionic-20232A?style=for-the-badge&logo=ionic&logoColor=white">
-	<img src="https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Ionic-20232A?style=for-the-badge&logo=ionic&logoColor=white">
+<img src="https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white">
 <div/>
 
 <br />
