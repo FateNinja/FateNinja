@@ -47,6 +47,11 @@
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+	<img src="https://img.shields.io/badge/MySQL-F05032?style=for-the-badge&logo=git&logoColor=white">
+	<img src="https://img.shields.io/badge/Vue-F05032?style=for-the-badge&logo=git&logoColor=white">
+	<img src="https://img.shields.io/badge/AWS-F05032?style=for-the-badge&logo=git&logoColor=white">
+	<img src="https://img.shields.io/badge/Ionic-F05032?style=for-the-badge&logo=git&logoColor=white">
+	<img src="https://img.shields.io/badge/Python-F05032?style=for-the-badge&logo=git&logoColor=white">
 <div/>
 
 <br />
