@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=FateNinja&color=dc143c)
-<h1 align="center">Hi, there! 👋</h1>
+<h1 align="center">Hello, there! 👋</h1>
 
 <p align="center">
 	  <img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=FateNinja&include_all_commits=true&hide_border=true&theme=dark"/>
