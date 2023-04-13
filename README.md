@@ -27,7 +27,7 @@
 -->
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> </h2>
 <div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/dotNet-9E9E9E?style=for-the-badge&logo=dotnet&logoColor=black">
   <img src="https://img.shields.io/badge/Next-CC342D?style=for-the-badge&logo=next&logoColor=white">
@@ -43,6 +43,7 @@
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/Ionic-20232A?style=for-the-badge&logo=ionic&logoColor=white">
-<img src="https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Ionic-20232A?style=for-the-badge&logo=ionic&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-007ACC?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-339933?style=for-the-badge&logo=python&logoColor=white">
 <div/>
