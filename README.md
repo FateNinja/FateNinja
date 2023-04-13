@@ -5,9 +5,6 @@
 	  <img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=FateNinja&include_all_commits=true&hide_border=true&theme=dark"/>
 </p>
  
-
-<br />
-
 <p align="center">
   <a href="https://github.com/FateNinja">
     <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FateNinja&langs_count=8&layout=compact&theme=dark" />
@@ -20,16 +17,14 @@
 
 
 <p align="center">
-  <!--a href="https://github.com/FateNinja">
+  <a href="https://github.com/FateNinja">
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=FateNinja&theme=onedark&row=1&&column=7" />
-  </a-->  
+  </a>  
 </p>
  
-<br />
 <!--
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=FateNinja&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true) 
 -->
-<br />
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> </h2>
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -51,8 +46,3 @@
 <img src="https://img.shields.io/badge/Ionic-20232A?style=for-the-badge&logo=ionic&logoColor=white">
 <img src="https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white">
 <div/>
-
-<br />
-
-
-
