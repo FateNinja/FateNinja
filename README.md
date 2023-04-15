@@ -2,10 +2,6 @@
 <h1 align="center">Hello, there! 👋</h1>
 
 <p align="center">
-	  <img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=FateNinja&include_all_commits=true&hide_border=true&theme=dark"/>
-</p>
- 
-<p align="center">
   <a href="https://github.com/FateNinja">
     <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FateNinja&langs_count=8&layout=compact&theme=dark" />
   </a>
