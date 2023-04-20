@@ -9,7 +9,6 @@
   </a>
 </p>
 
-
 <p align="center">
   <a href="https://github.com/FateNinja">
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=FateNinja&theme=onedark&row=1&&column=7" />
